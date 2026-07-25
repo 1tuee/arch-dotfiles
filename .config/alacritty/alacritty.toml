@@ -1,0 +1,11 @@
+[font]
+size = 11
+normal = { family = "JetBrainsMono Nerd Font", style = "Medium" }
+
+[window]
+opacity = 0.85
+padding = { x = 10, y = 10 }
+decorations = "Full"
+
+[cursor]
+blink_interval = 500
